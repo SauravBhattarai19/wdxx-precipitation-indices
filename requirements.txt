@@ -1,0 +1,27 @@
+# Python dependencies for Global Extreme Precipitation Analysis
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.19.0
+scipy>=1.5.0
+pandas>=1.2.0
+
+# NetCDF data handling
+xarray>=0.18.0
+netCDF4>=1.5.0
+
+# Visualization
+matplotlib>=3.3.0
+cartopy>=0.18.0
+
+# Geospatial utilities
+regionmask>=0.6.0
+
+# Performance optimization (optional but recommended)
+numba>=0.51.0
+
+# Parallel processing (built-in, but ensure multiprocessing works)
+# multiprocessing is part of Python standard library
+
+# Data compression
+h5py>=3.0.0

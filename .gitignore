@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files (large NetCDF files)
+data/
+*.nc
+*.h5
+*.hdf5
+
+# Output directories
+output_*/
+figures/
+results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Environment
+venv/
+env/
+ENV/
+.venv
+
+# Test outputs
+test_output/
+test_*/
+
+# Large visualization outputs (keep small examples)
+*.png
+*.jpg
+*.pdf
+!sample_*.png
+!example_*.png
+
+# Zip files
+*.zip
+
+# Backup files
+*_backup/
+*_backup_*/
