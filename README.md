@@ -385,7 +385,7 @@ The WDXXR (chronological clustering) indices are a novel contribution that:
 If you use this code, please cite:
 
 ```
-
+Saurav Bhattarai. (2026). SauravBhattarai19/wdxx-precipitation-indices: WDXX Precipitation Indices: Implementation of Novel Chronological Clustering Indices (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18842145
 ```
 
 ## License
